@@ -1,2 +1,2 @@
-print("hello world") > "run.py"
+print("changed text") > "run.py"
 python run.py
