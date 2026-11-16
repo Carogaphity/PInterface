@@ -1,2 +1,2 @@
-print("changed text") > "run.py"
+echo "print('changed text')" > "run.py"
 python run.py
